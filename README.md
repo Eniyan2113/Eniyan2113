@@ -1,14 +1,19 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Eniyan2113/Eniyan2113/main/Monkey%20D%20Luffy%20GIF.gif" alt="Luffy Gear 5" width="400" height="350"/>
+  <img src="https://raw.githubusercontent.com/Eniyan2113/Eniyan2113/main/3611b30d49752a0ed290a1458d5bbb03.gif" alt="Luffy Gear 5" width="500" height="280"/>
 </p>
 
 <br>
 
 ## 👋 Hey there, I'm Eniyan A
 
-🎓 Final Year B.E. Electronics & Instrumentation Engineering Student  
+🤖 Aspiring AI/ML Developer | Python Enthusiast | Problem Solver  
+🎓 B.E. Electronics & Instrumentation Engineering Graduate  
 📍 Sri Sairam Engineering College, Chennai  
-💼 Intern @ Centum Controls Pvt. Ltd. | Patent Published | Machine Learning | Automation | Python  
+💼 Published Patent Holder | ML Project Developer  
+
+I'm passionate about building intelligent systems using **Machine Learning**, **Data Analysis**, and **AI-driven automation**. I love working with **Python**, applying models to real-world sensor data, and exploring domains like **model deployment**, **computer vision**, and **predictive analytics**.  
+Currently focused on expanding my knowledge in **deep learning**, **PySpark**, and **AI-driven instrumentation**.
+
 
 ---
 
@@ -17,57 +22,86 @@
 - 🧠 Passionate about **Data Science, Machine Learning, and Industrial Automation**
 - 👨‍💻 Strong foundation in **Python**, **SQL**, and **Instrumentation Technologies**
 - 💡 Built projects in **Arduino**, **ML models**, and **Sensor Data Analysis**
-- 📈 Solved 300+ coding problems on platforms like **HackerRank**, **LeetCode**, and **Codeforces**
-- 📚 Currently learning **Apache Kafka**, **PySpark**, **Computer Networks**, and **Operating Systems**
-- 🛠️ Skilled in developing real-time automation systems with **PLC, SCADA, DCS**
+- 📈 Solved **2000+ problems on Skillrack** and **100+ problems on LeetCode**
+- 📚 Currently learning **Apache Kafka** and **PySpark**
 
 ---
 
 
 ### 🧰 Tech Stack
 
-**Programming Languages**  
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+#### 🧑‍💻 Programming Languages
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" title="C" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" title="C++" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" title="Java" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" title="SQL" />
+</p>
 
-**Web Development**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+#### 🌐 Web Development
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" title="Flask" />&nbsp;
+  <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/0*oN9jA-Ad3mRlPAYy.png" width="80" title="BeautifulSoup" />
+</p>
 
-**Data Science & ML**  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-FFFFFF?style=flat&logo=matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+#### 🤖 Data Science & Machine Learning
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" title="Pandas" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" title="NumPy" />&nbsp;
+  <img src="https://payload-cms.code-b.dev/media/matplot_title_logo-1.png" width="60" title="scikit-learn" width="100" title="scikitlearn" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="40" title="Matplotlib" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" width="40" title="Plotly" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" title="PyTorch" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" title="TensorFlow" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="40" title="PySpark (Apache Spark logo used)" />
+</p>
 
-**Databases**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+#### 🛢️ Databases
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" title="MySQL" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB" />
+</p>
 
-**Automation / Tools**  
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
+#### ⚙️ Tools / Automation / Frameworks
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="40" title="Arduino" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" width="40" title="Raspberry Pi" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" title="Git" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" width="40" title="Kafka" />
+</p>
 
-**Design**  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
+#### 🎨 Design
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" title="Figma" />&nbsp;
+  <img src="https://img.icons8.com/fluency/48/000000/canva.png" width="40" title="Canva" />
 
----
+</p>
+
 
 ### 🧾 Coding Profiles
 
-- **HackerRank**: [@eniyan-codes](#)  
-- **LeetCode**: [@eniyan-codes](#)  
-- **Codeforces**: [@eniyan_cf](#)  
-- **Kaggle**: [@eniyan-a](#)
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.skillrack.com/faces/resume.xhtml?id=354379&key=561f417fe4197603239f35c7e450678fb805a7a1" target="_blank">
+        <img src="https://yt3.googleusercontent.com/rkv4rZTw04X6-ppVC9phy9Fv_Y_n3zaVIgX6-dk43L5vsWClowBjTVXa64D5QiN8tIcKRqD3Tg=s900-c-k-c0x00ffffff-no-rj" alt="Skillrack" width="40" height="40"/><br>
+        <strong>Skillrack</strong>
+      </a>
+    </td>
+    <td align="center" style="padding-left: 30px;">
+      <a href="https://leetcode.com/u/Eniyan2113/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/><br>
+        <strong>LeetCode</strong>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
+
 
 ---
 
@@ -79,10 +113,13 @@
 ---
 
 ### 📫 Let's Connect
+<p align="left">
+  <a href="https://www.linkedin.com/in/eniyan-a-eniyan/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" title="LinkedIn" />
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
-[![Medium](https://img.shields.io/badge/Medium-black?style=flat&logo=medium&logoColor=white)](https://medium.com/@your-profile)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-grey?style=flat&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+
 
 ---
 
