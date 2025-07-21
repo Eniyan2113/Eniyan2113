@@ -4,7 +4,7 @@
 
 <br>
 
-## 👋 Hey there, I'm Eniyan A
+## - Heyo 👾 I'm Eniyan A—and this repo’s got flavor
 
 🤖 Aspiring AI/ML Developer | Python Enthusiast | Problem Solver  
 🎓 B.E. Electronics & Instrumentation Engineering Graduate  
