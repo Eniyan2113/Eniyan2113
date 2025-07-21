@@ -1,3 +1,10 @@
+<!-- Luffy Gear 5 GIF (centered) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Eniyan2113/Eniyan2113/main/Monkey%20D%20Luffy%20GIF.gif" alt="Luffy Gear 5" width="500"/>
+</p>
+
+<br>
+
 ## 👋 Hey there, I'm Eniyan A
 
 🎓 Final Year B.E. Electronics & Instrumentation Engineering Student  
@@ -16,7 +23,7 @@
 - 🛠️ Skilled in developing real-time automation systems with **PLC, SCADA, DCS**
 
 ---
-![Luffy Gear 5](https://github.com/Eniyan2113/Eniyan2113/blob/main/luffy-gear5.gif)
+
 
 ### 🧰 Tech Stack
 
