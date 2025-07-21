@@ -16,6 +16,7 @@
 - 🛠️ Skilled in developing real-time automation systems with **PLC, SCADA, DCS**
 
 ---
+![Luffy Gear 5](https://github.com/Eniyan2113/Eniyan2113/blob/main/luffy-gear5.gif)
 
 ### 🧰 Tech Stack
 
