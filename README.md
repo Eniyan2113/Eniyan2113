@@ -1,6 +1,5 @@
-<!-- Luffy Gear 5 GIF (centered) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Eniyan2113/Eniyan2113/main/Monkey%20D%20Luffy%20GIF.gif" alt="Luffy Gear 5" width="500"/>
+  <img src="https://raw.githubusercontent.com/Eniyan2113/Eniyan2113/main/Monkey%20D%20Luffy%20GIF.gif" alt="Luffy Gear 5" width="400" height="350"/>
 </p>
 
 <br>
