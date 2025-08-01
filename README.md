@@ -6,7 +6,7 @@
 
 ## - Heyo 👾 I'm Eniyan A --- and this repo’s got flavor
 
-🤖 Aspiring AI/ML Developer | Python Enthusiast | Problem Solver  
+🤖 Aspiring AI/ML Developer | Data Scientist | Python Enthusiast | Problem Solver  
 🎓 B.E. Electronics & Instrumentation Engineering Graduate  
 📍 Sri Sairam Engineering College, Chennai  
 💼 Published Patent Holder | ML Project Developer  
